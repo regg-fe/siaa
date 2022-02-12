@@ -1,0 +1,24 @@
+
+textarea {
+  resize: none !important;
+}
+
+.mo {
+	display: none;
+	width: 100vw; 
+	height: 100vh; 
+	background-color: rgba(0,0,0,0.5);
+	align-items: center; 
+	justify-content: center; 
+	top: 0; z-index: 99;
+}
+
+.mess {
+	color: white;
+	justify-content: center;
+	width: 100%;
+	background: #BB2D3B;
+	padding: 7px;
+	border-radius: 3px;
+	display: none;
+}
